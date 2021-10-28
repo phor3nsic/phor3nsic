@@ -1,6 +1,4 @@
-## Hello there 👋
-
-_I'm bão and OCê?!_
+## I'm bão and OCê? 👋
  
 I'm a security researcher, I work as a pentester and in my free time I like to have fun bug bounty!
 
