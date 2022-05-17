@@ -16,9 +16,14 @@ I'm a security researcher, I work as a pentester and in my free time I like to h
 ## Contact
 
    <a href="https://twitter.com/phor3nsic_br">
-    <img src="https://img.shields.io/badge/twitter-@phor3nsic_br-red.svg?style=square&logo=twitter">
+    <img src="https://img.shields.io/badge/@phor3nsic_br-grey.svg?style=square&logo=twitter">
   </a>
   
   <a href="https://www.linkedin.com/in/wallesonmoura/">
-    <img src="https://img.shields.io/badge/linkedin-@wallesonmoura-red.svg?style=square&logo=linkedin">
+    <img src="https://img.shields.io/badge/@wallesonmoura-blue.svg?style=square&logo=linkedin">
   </a>
+  
+  <a href="https://hackerone.com/phor3nsic">
+    <img src="https://img.shields.io/badge/@phor3nsic-black?style=square&logo=hackerone">
+  </a>
+
