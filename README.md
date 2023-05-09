@@ -3,6 +3,7 @@
 I'm a security researcher, I work as a pentester and in my free time I like to have fun bug bounty!
 
 Get $200 credit on Digital Ocean:
+<br>
 <a href="https://www.digitalocean.com/?refcode=8fd2d6dfd146&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
 
 ## Stats
