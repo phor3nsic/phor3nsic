@@ -20,8 +20,8 @@ Get $200 credit on Digital Ocean:
   
 ## Contact
 
-   <a href="https://twitter.com/ph0r3nsic">
-    <img src="https://img.shields.io/badge/@ph0r3nsic-grey.svg?style=square&logo=twitter">
+   <a href="https://x.com/ph0r3nsic">
+    <img src="https://img.shields.io/badge/@ph0r3nsic-grey.svg?style=square&logo=x">
   </a>
   
   <a href="https://www.linkedin.com/in/wallesonmoura/">
