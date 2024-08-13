@@ -1,10 +1,20 @@
-## I'm bão and OCê? 👋
- 
-I'm a security researcher, I work as a pentester and in my free time I like to have fun bug bounty!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-Get $200 credit on Digital Ocean:
-<br>
-<a href="https://www.digitalocean.com/?refcode=8fd2d6dfd146&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+## I'm bão and OCê? 👨🏽‍🌾
+ 
+- Technology enthusiast with a keen eye for details, I always enjoy delving into the finer aspects and understanding the reasons behind them.
+- I have found security vulnerabilities in major companies such as Comcast, Xfinity, Sophos, Stripe, Playstation, EpicGames, Vimeo, among others.
+- I am passionate about developing automations for sudden processes.
+- Experienced in security research, code analysis, and involved in several CVEs:
+  - CVE-2020-5841
+  - CVE-2020-7953
+  - CVE-2020-7954
+  - CVE-2020-8636
+  - CVE-2021-40822
 
 ## Stats
 
