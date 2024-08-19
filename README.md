@@ -15,6 +15,12 @@
   - CVE-2020-7954
   - CVE-2020-8636
   - CVE-2021-40822
+ 
+## Contribute
+
+If you have saved time or money using one of my tools and feel grateful for it, feel free to contribute so that I can dedicate more time to developing solutions.
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="phor3nsic" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## Stats
 
