@@ -34,7 +34,7 @@ If you have saved time or money using one of my tools and feel grateful for it, 
   </div>
  
   
-## Contact
+## Social
 
    <a href="https://x.com/ph0r3nsic">
     <img src="https://img.shields.io/badge/@ph0r3nsic-grey.svg?style=square&logo=x">
